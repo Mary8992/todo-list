@@ -64,6 +64,7 @@ body {
   width: 100%;
   position: relative;
   overflow: scroll;
+  max-height: 450px;
 }
 
 .task {
