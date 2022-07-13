@@ -33,4 +33,5 @@ function addItem() {
        };
     }
   }
+    newTask.value = ""
 };
